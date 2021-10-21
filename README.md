@@ -3,6 +3,6 @@
 
 ## Contents:
 1. Cardiovascular Disease dataset
-1. Write up
-1. Note_book
-1. presentation
+1. Writeup
+1. Python Notebook
+1. Presentation
