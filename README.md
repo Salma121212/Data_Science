@@ -1,4 +1,4 @@
-# Cardiovascular Disease - EDA, Descriptive Analysis, and Machine Learning
+# Cardiovascular Disease - Descriptive Analysis, and Machine Learning
 <br>
 
 ## Contents:
